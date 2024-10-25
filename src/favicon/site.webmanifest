@@ -1,6 +1,7 @@
 {
     "name": "JanQueralt",
     "short_name": "JanQue",
+    "description": "JanQue es tu plataforma dedicada a explorar el apasionante mundo de las nuevas tecnologías. Ofrecemos contenido accesible sobre informática y cursos introductorios diseñados para principiantes. Nuestro objetivo es simplificar conceptos complejos, proporcionando recursos que te ayuden a desarrollar habilidades digitales. <br> Únete a nosotros y empieza a leer transformando tu curiosidad en conocimiento.",
     "icons": [
        {
           "src": "/android-chrome-192x192.png",
@@ -13,7 +14,8 @@
         "type": "image/png"
         }
     ],
-    "theme_color": "#FFFFFF",
-    "background_color": "#FFFFFF",
+    "theme_color": "#34558B",
+    "background_color": "#f2f2f2",
+    "orientation": "none",
     "display": "standalone"
  }
